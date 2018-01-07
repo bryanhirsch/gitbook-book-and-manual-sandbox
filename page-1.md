@@ -1,2 +1,2 @@
-This is page 1.
+![](/assets/purple-flower.jpg)This is page 1.
 
